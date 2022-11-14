@@ -1,0 +1,66 @@
+.navStyle{
+    background-color: #202535;
+    margin: -1;
+}
+.nav-flex{
+    display:flex;
+    flex-direction: row; /*default however writting it down to uderstan and possibly change*/
+    flex-wrap: nowrap; /*default however writting it down to uderstan and possibly change*/
+    justify-content: center;
+    padding: 10px 10px;
+    gap:300px 
+}
+.img-nav1{
+    width: 35px
+}
+.img-nav2{
+    width: 15px;
+    height: 15px;
+}
+.sectionStyle{
+    background-color: #202535;
+    color:aliceblue;
+    text-align: left;
+    margin: -1;
+}
+.h1-title{
+    margin: 0px 10px;
+    font-size: 2.3rem;
+}
+.p-style{
+    margin: 0px 10px;
+    font-size: 0.7rem;
+
+}
+.button-awesome{
+    padding: 16px;
+    background-color:white;
+    border: none;
+    border-radius: 6px;
+    align-items: left;
+    text-align: left;
+    font-size: 1.1rem;
+    font-weight: bold;
+} 
+.section-style-button{
+    background-color: #202535;
+    padding: 20px 10px;
+}
+.icon-img{
+    width: 60px;
+}
+.h1-icon{
+    font-size: 0.9rem;
+}
+.p-icon{
+    color: grey;
+    font-size:0.8rem;
+}
+.icon-flex{
+    display:flex;
+    flex-direction: row; /*default however writting it down to uderstan and possibly change*/
+    flex-wrap: nowrap; /*default however writting it down to uderstan and possibly change*/
+    justify-content: center;
+    padding: 60px 10px;
+    gap:12px 
+}
